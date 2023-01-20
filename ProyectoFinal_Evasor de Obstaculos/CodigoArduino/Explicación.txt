@@ -1,1 +1,0 @@
-El codigo esta configurado para Arduino Mega 2560
